@@ -1,0 +1,14 @@
+#tab_sd-webui-readme div.gradio-markdown {
+    width: 80vw;
+    margin: 0px auto;
+    padding: 2em !important;
+    overflow: hidden;
+    border: 1px solid var(--border-color-primary);
+    background: var(--block-background-fill);
+    border-radius: 1em;
+}
+
+#tab_sd-webui-readme div.gradio-markdown img {
+    max-width: 100% !important;
+    max-height: 100% !important;
+}
